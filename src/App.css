@@ -1,0 +1,20 @@
+.App {
+  text-align: left;
+}
+
+.static-menu {
+  height: 40px;
+  cursor: pointer;
+}
+
+.animated-menu {
+  height: 80px;
+  cursor: pointer;
+}
+
+.App-header {
+  background-color: #222;
+  height: 40px;
+  padding: 20px;
+  color: white;
+}
